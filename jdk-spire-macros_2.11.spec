@@ -1,6 +1,6 @@
 Name     : jdk-spire-macros_2.11
 Version  : 0.7.4
-Release  : 1
+Release  : 2
 URL      : http://repo1.maven.org/maven2/org/spire-math/spire-macros_2.11/0.7.4/spire-macros_2.11-0.7.4.jar
 Source0  : http://repo1.maven.org/maven2/org/spire-math/spire-macros_2.11/0.7.4/spire-macros_2.11-0.7.4.jar
 Source1  : http://repo1.maven.org/maven2/org/spire-math/spire-macros_2.11/0.7.4/spire-macros_2.11-0.7.4.pom
